@@ -1,0 +1,12 @@
+{
+    "APP": {
+        "binds": {
+            "start": "F6"
+        }
+    },
+    "PLAYER": {
+        "nickname": "insert_your_IGN",
+        "api_key": "insert_your_hypixel_API_key"
+    },
+    "sb": "null"
+}
