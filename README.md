@@ -2,8 +2,8 @@
 
 Automates farming whilist being on garden island on hypixel skyblock. 
 
-Requirements:
--Specific farm design 
+Requirements:\
+-Specific farm design \
 -Python3 
 
 
